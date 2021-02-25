@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "Sterling Cutlass",
+    "content": "<u>Cutlass HSS Electric Guitar Specifications:</u>\n**Body**\n- Body Type: Double Cutaway Solid Body\n- Body wood: Poplar\n**Neck**\n- Neck wood: Maple\n- Joint: Bolt-on\n- Scale length: 25.5\"\n- Fingerboard Material: Maple\n- Radius: 12\"\n- Fret size: Medium\n- Number of frets: 22\n- Nut width: 1.653\"\n**Electronics**\n- Configuration: HSS\n- Neck: Proprietary Humbucker\n- Middle: Proprietary Single Coil\n- Bridge: Proprietary Single Coil\n- Control layout: Master volume, Master tone\n- Pickup switch: 5-Way\n**Hardware**\n- Bridge type: Tremolo/Vibrato\n- Tuning machines: Locking\n- Color: Chrome\n**Other**\n- Number of strings: 6 String\n- Orientation: Right-handed\n- Country of Origin: Indonesia",
+    "meta_description": "A great new offering from Sterling with a roasted maple neck!",
+    "meta_title": "Sterling by Musicman Cutlass CT50 (2021)",
+    "price": 500,
+    "slug": "cutlass",
+    "published_at": "2021-02-24T21:31:53.290Z",
+    "created_at": "2021-02-24T21:31:11.066Z",
+    "updated_at": "2021-02-24T21:36:01.218Z",
+    "image": {
+      "id": 1,
+      "name": "sterling_cutlass.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 1400,
+      "height": 1050,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_sterling_cutlass.jpg",
+          "hash": "thumbnail_sterling_cutlass_8d68660661",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 208,
+          "height": 156,
+          "size": 10.38,
+          "path": null,
+          "url": "/uploads/thumbnail_sterling_cutlass_8d68660661.jpg"
+        },
+        "large": {
+          "name": "large_sterling_cutlass.jpg",
+          "hash": "large_sterling_cutlass_8d68660661",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 750,
+          "size": 167.58,
+          "path": null,
+          "url": "/uploads/large_sterling_cutlass_8d68660661.jpg"
+        },
+        "medium": {
+          "name": "medium_sterling_cutlass.jpg",
+          "hash": "medium_sterling_cutlass_8d68660661",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 563,
+          "size": 102.3,
+          "path": null,
+          "url": "/uploads/medium_sterling_cutlass_8d68660661.jpg"
+        },
+        "small": {
+          "name": "small_sterling_cutlass.jpg",
+          "hash": "small_sterling_cutlass_8d68660661",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 375,
+          "size": 48.29,
+          "path": null,
+          "url": "/uploads/small_sterling_cutlass_8d68660661.jpg"
+        }
+      },
+      "hash": "sterling_cutlass_8d68660661",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 275.8,
+      "url": "/uploads/sterling_cutlass_8d68660661.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-02-24T21:25:38.557Z",
+      "updated_at": "2021-02-24T21:25:38.587Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Epiphone 335",
+    "content": "**Body**\n- Body Type: Double Cutaway Semi-Hollow\n- Top wood: Maple\n- Body wood: Maple\n- Body finish: Gloss\n**Neck**\n- Neck shape: Rounded C\n- Neck wood: Mahogany\n- Joint: Set-in\n- Scale length: 24.7\"\n- Truss rod: Standard\n- Fingerboard\n- Material: Indian laurel\n- Radius: 12\"\n- Number of frets: 22\n- Inlays: Small Block\n- Nut width/material: 1.69\"/Bone\n**Electronics**\n- Configuration: HH\n- Neck: Proprietary Humbucker\n- Bridge: Proprietary Humbucker\n- Control layout: Individual volume, Individual tone, Individual volume, Individual tone\n**Hardware**\n- Bridge type: Fixed Bridge\n- Bridge design: Locking\n- Tailpiece: Stopbar\n- Tuning machines: Vintage-style\n- Color: Nickel\n**Other**\n- Number of strings: 6 String\n- Case: Sold Separately\n- Orientation: Right handed",
+    "meta_description": "Limited Edition Epi in Tea Burst Finish!",
+    "meta_title": "Epiphone Ltd 335 Pro (2020)",
+    "price": 599,
+    "slug": "epiphone-335",
+    "published_at": "2021-02-24T21:34:44.096Z",
+    "created_at": "2021-02-24T21:34:38.604Z",
+    "updated_at": "2021-02-24T21:34:44.142Z",
+    "image": {
+      "id": 2,
+      "name": "epiphone_335.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 1200,
+      "height": 835,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_epiphone_335.jpg",
+          "hash": "thumbnail_epiphone_335_5b7ba8a128",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 224,
+          "height": 156,
+          "size": 8,
+          "path": null,
+          "url": "/uploads/thumbnail_epiphone_335_5b7ba8a128.jpg"
+        },
+        "large": {
+          "name": "large_epiphone_335.jpg",
+          "hash": "large_epiphone_335_5b7ba8a128",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 696,
+          "size": 135.58,
+          "path": null,
+          "url": "/uploads/large_epiphone_335_5b7ba8a128.jpg"
+        },
+        "medium": {
+          "name": "medium_epiphone_335.jpg",
+          "hash": "medium_epiphone_335_5b7ba8a128",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 522,
+          "size": 82.42,
+          "path": null,
+          "url": "/uploads/medium_epiphone_335_5b7ba8a128.jpg"
+        },
+        "small": {
+          "name": "small_epiphone_335.jpg",
+          "hash": "small_epiphone_335_5b7ba8a128",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 348,
+          "size": 37.42,
+          "path": null,
+          "url": "/uploads/small_epiphone_335_5b7ba8a128.jpg"
+        }
+      },
+      "hash": "epiphone_335_5b7ba8a128",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 187.41,
+      "url": "/uploads/epiphone_335_5b7ba8a128.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-02-24T21:25:49.787Z",
+      "updated_at": "2021-02-24T21:25:49.814Z"
+    }
+  }
+]
