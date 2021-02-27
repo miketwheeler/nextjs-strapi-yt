@@ -10,7 +10,7 @@ const finder = require("strapi-utils/lib/finder");
 module.exports = {
   /**
    * Only send orders back that are the auth user's
-   * @param {*} ctx
+   * @param {any} ctx
    */
   async find(ctx) {
     const { user } = ctx.state; // This is the magic user
@@ -32,6 +32,7 @@ module.exports = {
   },
   /**
    * Retrieve an order by id, only if it belongs to the user
+   * @param {any} ctx
    */
   async findOne(ctx) {
     const { id } = ctx.params;
