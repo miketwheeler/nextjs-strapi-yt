@@ -33,8 +33,8 @@ const useOrders = (user, getToken) => {
 
 export default function Account() {
   const { user, logoutUser, getToken } = useContext(AuthContext);
-
   const { orders, loading } = useOrders(user, getToken);
+
   console.log("Account.render ");
   if (!user) {
     return (
